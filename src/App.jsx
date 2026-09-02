@@ -1,8 +1,8 @@
-import ExpenseT from "./ExpenseT";
+import ExpenseTracker from "./ExpenseTracker";
 function App()
 {
    return(
-   <ExpenseT></ExpenseT>
+   <ExpenseTracker></ExpenseTracker>
    );
    
 }
