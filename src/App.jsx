@@ -1,8 +1,8 @@
-import ExpenseTracker from "./ExpenseTracker";
+import QuizApp from './QuizApp.jsx';
 function App()
 {
    return(
-   <ExpenseTracker></ExpenseTracker>
+   <QuizApp></QuizApp>
    );
    
 }
